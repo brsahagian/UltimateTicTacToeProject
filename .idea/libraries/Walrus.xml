@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Walrus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source_code/out/artifacts/Walrus_jar/Walrus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
